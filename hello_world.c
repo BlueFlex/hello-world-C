@@ -1,4 +1,3 @@
-Live Demo
 #include <stdio.h>
 
 int main() {
